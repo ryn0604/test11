@@ -7,3 +7,9 @@
 
       }
   ```
+
+  ## java 코드
+  ```java
+      int num1 = 10;
+      Scanner scan = new Scanner(System.in);
+  ```
